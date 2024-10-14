@@ -86,7 +86,7 @@ const Hero = () => {
             lg:ml-[75vw] md:ml-[60vw] xmd:ml-[60vw] 2xl:ml-[79vw]
             sm:h-[90vh] md:h-[70vh] xl:h-[80vh]"
             src={avatar}
-            alt="shaquille"
+            alt="Avatar yannis"
           />
         </div>
       </section>
