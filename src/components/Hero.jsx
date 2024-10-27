@@ -47,7 +47,7 @@ const Hero = () => {
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
               Déterminé après mon retour d'un long voyage. <br className="sm:block hidden" />
-              Je suis persuadé de pouvori devenir un élément indispensable de votre structure.
+              Je suis persuadé de pouvoir devenir un élément indispensable de votre structure.
             </p>
           </div>
           <div
