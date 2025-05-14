@@ -119,14 +119,14 @@ const experiences = [
     title: 'Développeur Full Stack',
     company_name: 'Sopra Steria',
     icon: sopra,
-    iconBg: '#333333',
+    iconBg: '#cdcdcd',
     date: 'Mai 2025 - ce jour',
   },
   {
     title: 'Formation Java (SpringBoot) - Angular',
     company_name: 'Ajc ingenierie',
     icon: ajc,
-    iconBg: '#333333',
+    iconBg: '#cdcdcd',
     date: 'Février 2025 - Mai 2025',
   },
   {
