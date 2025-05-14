@@ -44,7 +44,7 @@ import synergie from './company/synergie.webp';
 import sdis59 from './company/sdis59.webp';
 
 import ccl from './projects/logo_ccl.png';
-import jumpforce from './projects/jumpforce.png';
+import bar from './projects/bar.png';
 
 export {
   bwmap,
@@ -87,5 +87,5 @@ export {
   ajc,
   mysql,
   ccl,
-  jumpforce
+  bar,
 };
