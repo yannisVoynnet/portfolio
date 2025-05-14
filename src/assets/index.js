@@ -38,6 +38,8 @@ import springboot from './tech/springboot.png';
 import mysql from './tech/mysql.png';
 
 import oxemis from './company/oxemis.png';
+import sopra from './company/sopra.png';
+import ajc from './company/ajc.png';
 import synergie from './company/synergie.webp';
 import sdis59 from './company/sdis59.webp';
 
@@ -81,6 +83,8 @@ export {
   oxemis,
   sdis59,
   synergie,
+  sopra,
+  ajc,
   mysql,
   ccl,
   jumpforce

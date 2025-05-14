@@ -16,8 +16,10 @@ import {
   docker,
   postgresql,
   ccl,
-  jumpforce,
+  bar,
   oxemis,
+  sopra,
+  ajc,
   synergie,
   sdis59,
   mysql,
@@ -113,6 +115,20 @@ const technologies = [
 ];
 
 const experiences = [
+   {
+    title: 'Développeur Full Stack',
+    company_name: 'Sopra Steria',
+    icon: sopra,
+    iconBg: '#333333',
+    date: 'Mai 2025 - ce jour',
+  },
+  {
+    title: 'Formation Java (SpringBoot) - Angular',
+    company_name: 'Ajc ingenierie',
+    icon: ajc,
+    iconBg: '#333333',
+    date: 'Février 2025 - Mai 2025',
+  },
   {
     title: 'Développeur Full Stack',
     company_name: 'Oxemis',
@@ -161,13 +177,13 @@ const projects = [
   },
   {
     id: 'project-2',
-    name: 'Jumpforce',
+    name: 'Tour de jeu',
     description:
-      'Un site web de vente de vêtements de sport.',
+      'Un site web pour un bar à jeux, fait avec quelques collègues lors d\'une super formation !',
     tags: [
     ],
-    image: jumpforce,
-    repo: '',
+    image: bar,
+    repo: 'https://github.com/romain44240/project_final',
     demo: '',
   },
 ];

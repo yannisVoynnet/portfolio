@@ -37,7 +37,7 @@ const Hero = () => {
           <div>
             <h1
               className={`${styles.heroHeadText} text-eerieBlack font-poppins uppercase`}>
-              Salut, je suis {' '}
+              Bonjour, moi c'est {' '}
               <span
                 className="sm:text-battleGray sm:text-[90px] 
                 text-eerieBlack text-[50px] font-mova
@@ -46,8 +46,8 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              Déterminé après mon retour d'un long voyage. <br className="sm:block hidden" />
-              Je suis persuadé de pouvoir devenir un élément indispensable de votre structure.
+              En quête de nouvelle aventure et expérience ! <br className="sm:block hidden" />
+              Un aventurier se doit de s'adapter et d'évoluer rapidement, et c'est ce que je suis !
             </p>
           </div>
           <div
